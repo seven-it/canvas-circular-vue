@@ -4,6 +4,7 @@
 
 <script>
 export default {
+  name: 'canvas-circular',
   props: {
     width: {
       // canvas 画布宽度

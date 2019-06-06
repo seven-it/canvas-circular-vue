@@ -23,14 +23,10 @@
 </template>
 
 <script>
-import canvasCircular from './components/canvasCircular'
 import { setInterval } from 'timers';
 
 export default {
   name: 'app',
-  components: {
-    canvasCircular
-  },
   data() {
     return {
       count: 0,
