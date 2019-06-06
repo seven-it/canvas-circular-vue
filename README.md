@@ -2,6 +2,11 @@
 
 ## [DEMO链接](https://seven-it.github.io/canvas-circular-vue/dist/)
 
+## 效果图
+![](https://github.com/seven-it/canvas-circular-vue/blob/master/images/1.png?raw=true)
+![](https://github.com/seven-it/canvas-circular-vue/blob/master/images/2.png?raw=true)
+![](https://github.com/seven-it/canvas-circular-vue/blob/master/images/3.png?raw=true)
+
 ## Props
 Name|Type|是否必须|默认值|功能
 --|:--:|--:|--:|--:
